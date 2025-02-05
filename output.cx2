@@ -1,0 +1,924 @@
+[
+  {
+    "CXVersion": "2.0",
+    "hasFragments": false
+  },
+  {
+    "nodes": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 0,
+        "v": {
+          "name": "XRCC6",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 1,
+        "x": 100,
+        "y": 0,
+        "v": {
+          "name": "XRCC5",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 2,
+        "x": 200,
+        "y": 0,
+        "v": {
+          "name": "MRE11",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 3,
+        "x": 300,
+        "y": 0,
+        "v": {
+          "name": "NBN",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 4,
+        "x": 400,
+        "y": 0,
+        "v": {
+          "name": "RAD50",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 5,
+        "x": 500,
+        "y": 0,
+        "v": {
+          "name": "WDCP",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 6,
+        "x": 600,
+        "y": 0,
+        "v": {
+          "name": "PARP1",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 7,
+        "x": 700,
+        "y": 0,
+        "v": {
+          "name": "COL11A2",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 8,
+        "x": 800,
+        "y": 0,
+        "v": {
+          "name": "PARP2",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 9,
+        "x": 900,
+        "y": 0,
+        "v": {
+          "name": "PARP3",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 10,
+        "x": 0,
+        "y": 100,
+        "v": {
+          "name": "PARP4",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 11,
+        "x": 100,
+        "y": 100,
+        "v": {
+          "name": "PARP6",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 12,
+        "x": 200,
+        "y": 100,
+        "v": {
+          "name": "PARP8",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 13,
+        "x": 300,
+        "y": 100,
+        "v": {
+          "name": "PARP9",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 14,
+        "x": 400,
+        "y": 100,
+        "v": {
+          "name": "PARP10",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 15,
+        "x": 500,
+        "y": 100,
+        "v": {
+          "name": "PARP11",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 16,
+        "x": 600,
+        "y": 100,
+        "v": {
+          "name": "PARP12",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 17,
+        "x": 700,
+        "y": 100,
+        "v": {
+          "name": "PARP14",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 18,
+        "x": 800,
+        "y": 100,
+        "v": {
+          "name": "PARP15",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 19,
+        "x": 900,
+        "y": 100,
+        "v": {
+          "name": "PARP16",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 20,
+        "x": 0,
+        "y": 200,
+        "v": {
+          "name": "TNKS",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 21,
+        "x": 100,
+        "y": 200,
+        "v": {
+          "name": "TNKS2",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 22,
+        "x": 200,
+        "y": 200,
+        "v": {
+          "name": "TIPARP",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 23,
+        "x": 300,
+        "y": 200,
+        "v": {
+          "name": "H2AX",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 24,
+        "x": 400,
+        "y": 200,
+        "v": {
+          "name": "RPA1",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 25,
+        "x": 500,
+        "y": 200,
+        "v": {
+          "name": "RPA2",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 26,
+        "x": 600,
+        "y": 200,
+        "v": {
+          "name": "RPA3",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 27,
+        "x": 700,
+        "y": 200,
+        "v": {
+          "name": "MSX2",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 28,
+        "x": 800,
+        "y": 200,
+        "v": {
+          "name": "POMC",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 29,
+        "x": 900,
+        "y": 200,
+        "v": {
+          "name": "RAD51",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 30,
+        "x": 0,
+        "y": 300,
+        "v": {
+          "name": "RAD17",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 31,
+        "x": 100,
+        "y": 300,
+        "v": {
+          "name": "ATRIP",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 32,
+        "x": 200,
+        "y": 300,
+        "v": {
+          "name": "DDB1",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 33,
+        "x": 300,
+        "y": 300,
+        "v": {
+          "name": "DDB2",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 34,
+        "x": 400,
+        "y": 300,
+        "v": {
+          "name": "POLR1A",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 35,
+        "x": 500,
+        "y": 300,
+        "v": {
+          "name": "POLR1B",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 36,
+        "x": 600,
+        "y": 300,
+        "v": {
+          "name": "POLR1C",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 37,
+        "x": 700,
+        "y": 300,
+        "v": {
+          "name": "POLR1D",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 38,
+        "x": 800,
+        "y": 300,
+        "v": {
+          "name": "ERCC2",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 39,
+        "x": 900,
+        "y": 300,
+        "v": {
+          "name": "XPC",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 40,
+        "x": 0,
+        "y": 400,
+        "v": {
+          "name": "ERCC8",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 41,
+        "x": 100,
+        "y": 400,
+        "v": {
+          "name": "CSH1",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 42,
+        "x": 200,
+        "y": 400,
+        "v": {
+          "name": "HSPA9",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 43,
+        "x": 300,
+        "y": 400,
+        "v": {
+          "name": "CSH2",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 44,
+        "x": 400,
+        "y": 400,
+        "v": {
+          "name": "ERCC6",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 45,
+        "x": 500,
+        "y": 400,
+        "v": {
+          "name": "ERCC3",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 46,
+        "x": 600,
+        "y": 400,
+        "v": {
+          "name": "APEX1",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 47,
+        "x": 700,
+        "y": 400,
+        "v": {
+          "name": "ATR",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 48,
+        "x": 800,
+        "y": 400,
+        "v": {
+          "name": "ANTXR1",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 49,
+        "x": 900,
+        "y": 400,
+        "v": {
+          "name": "MMAB",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 50,
+        "x": 0,
+        "y": 500,
+        "v": {
+          "name": "SERPINA2",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 51,
+        "x": 100,
+        "y": 500,
+        "v": {
+          "name": "ATM",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 52,
+        "x": 200,
+        "y": 500,
+        "v": {
+          "name": "PRKDC",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 53,
+        "x": 300,
+        "y": 500,
+        "v": {
+          "name": "BLM",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 54,
+        "x": 400,
+        "y": 500,
+        "v": {
+          "name": "RBBP8",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 55,
+        "x": 500,
+        "y": 500,
+        "v": {
+          "name": "BRCA1",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 56,
+        "x": 600,
+        "y": 500,
+        "v": {
+          "name": "BRCA2",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 57,
+        "x": 700,
+        "y": 500,
+        "v": {
+          "name": "RECQL",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 58,
+        "x": 800,
+        "y": 500,
+        "v": {
+          "name": "WRN",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 59,
+        "x": 900,
+        "y": 500,
+        "v": {
+          "name": "TTR",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 60,
+        "x": 0,
+        "y": 600,
+        "v": {
+          "name": "POLE",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 61,
+        "x": 100,
+        "y": 600,
+        "v": {
+          "name": "MYBBP1A",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 62,
+        "x": 200,
+        "y": 600,
+        "v": {
+          "name": "ERVW-4",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 63,
+        "x": 300,
+        "y": 600,
+        "v": {
+          "name": "POLQ",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 64,
+        "x": 400,
+        "y": 600,
+        "v": {
+          "name": "POLK",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 65,
+        "x": 500,
+        "y": 600,
+        "v": {
+          "name": "LRIG1",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 66,
+        "x": 600,
+        "y": 600,
+        "v": {
+          "name": "XRCC1",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 67,
+        "x": 700,
+        "y": 600,
+        "v": {
+          "name": "NR1H2",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 68,
+        "x": 800,
+        "y": 600,
+        "v": {
+          "name": "MUS81",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 69,
+        "x": 900,
+        "y": 600,
+        "v": {
+          "name": "MRC1",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 70,
+        "x": 0,
+        "y": 700,
+        "v": {
+          "name": "ERCC5",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 71,
+        "x": 100,
+        "y": 700,
+        "v": {
+          "name": "XPA",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 72,
+        "x": 200,
+        "y": 700,
+        "v": {
+          "name": "EXO1",
+          "type": "gene"
+        }
+      },
+      {
+        "id": 73,
+        "x": 300,
+        "y": 700,
+        "v": {
+          "name": "MGMT",
+          "type": "gene"
+        }
+      }
+    ]
+  },
+  {
+    "visualProperties": [
+      {
+        "default": {
+          "node": {
+            "NODE_BORDER_COLOR": "#CCCCCC",
+            "NODE_BORDER_STYLE": "solid",
+            "NODE_BORDER_OPACITY": 1,
+            "NODE_BORDER_WIDTH": 1,
+            "NODE_BACKGROUND_COLOR": "#FFFFFF",
+            "NODE_HEIGHT": 35,
+            "NODE_LABEL": "",
+            "NODE_LABEL_COLOR": "#000000",
+            "NODE_LABEL_FONT_FACE": {
+              "FONT_FAMILY": "sans-serif",
+              "FONT_STYLE": "normal",
+              "FONT_WEIGHT": "normal"
+            },
+            "NODE_LABEL_FONT_SIZE": 12,
+            "NODE_LABEL_OPACITY": 1,
+            "NODE_LABEL_POSITION": {
+              "HORIZONTAL_ALIGN": "center",
+              "VERTICAL_ALIGN": "center",
+              "HORIZONTAL_ANCHOR": "center",
+              "VERTICAL_ANCHOR": "center",
+              "MARGIN_X": 0,
+              "MARGIN_Y": 0,
+              "JUSTIFICATION": "center"
+            },
+            "NODE_LABEL_ROTATION": 0,
+            "NODE_LABEL_MAX_WIDTH": 200,
+            "NODE_BACKGROUND_OPACITY": 1,
+            "NODE_SELECTED_PAINT": "#FFFF00",
+            "NODE_SHAPE": "round-rectangle",
+            "NODE_VISIBILITY": "element",
+            "NODE_WIDTH": 75,
+            "NODE_Z_LOCATION": "0.0"
+          }
+        },
+        "nodeMapping": {
+          "NODE_BORDER_COLOR": {
+            "type": "DISCRETE",
+            "definition": {
+              "attribute": "type",
+              "map": [
+                {
+                  "v": "gene",
+                  "vp": "#467CA8"
+                }
+              ]
+            }
+          },
+          "NODE_BORDER_WIDTH": {
+            "type": "DISCRETE",
+            "definition": {
+              "attribute": "type",
+              "map": [
+                {
+                  "v": "gene",
+                  "vp": 4
+                }
+              ]
+            }
+          },
+          "NODE_BACKGROUND_COLOR": {
+            "type": "DISCRETE",
+            "definition": {
+              "attribute": "type",
+              "map": [
+                {
+                  "v": "protein",
+                  "vp": "#D1F5FF"
+                }
+              ]
+            }
+          },
+          "NODE_HEIGHT": {
+            "type": "DISCRETE",
+            "definition": {
+              "attribute": "type",
+              "map": [
+                {
+                  "v": "gene",
+                  "vp": 25
+                }
+              ]
+            }
+          },
+          "NODE_LABEL": {
+            "type": "PASSTHROUGH",
+            "definition": {
+              "attribute": "name"
+            }
+          },
+          "NODE_SHAPE": {
+            "type": "DISCRETE",
+            "definition": {
+              "attribute": "type",
+              "map": [
+                {
+                  "v": "protein",
+                  "vp": "ellipse"
+                }
+              ]
+            }
+          },
+          "NODE_WIDTH": {
+            "type": "DISCRETE",
+            "definition": {
+              "attribute": "type",
+              "map": [
+                {
+                  "v": "gene",
+                  "vp": 60
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "cyTableColumn": [
+      {
+        "applies_to": "node_table",
+        "n": "shared name"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "name"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "ncbigene",
+        "d": "integer"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "word"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "symbol"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "source"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "hgnc.symbol"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "type"
+      },
+      {
+        "applies_to": "edge_table",
+        "n": "shared name"
+      },
+      {
+        "applies_to": "edge_table",
+        "n": "shared interaction"
+      },
+      {
+        "applies_to": "edge_table",
+        "n": "name"
+      },
+      {
+        "applies_to": "edge_table",
+        "n": "interaction"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "shared name"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "name"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "__Annotations",
+        "d": "list_of_string"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "pmcid"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "pfocr_id"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "figure_number"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "figure_title"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "description"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "figure_link"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "paper_title"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "reference"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "publication_year"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "paper_link"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "version"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "organism"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "rights"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "methods"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "networkType"
+      }
+    ]
+  }
+]
