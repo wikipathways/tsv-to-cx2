@@ -1,0 +1,1009 @@
+[
+  {
+    "CXVersion": "2.0",
+    "hasFragments": false
+  },
+  {
+    "metaData": [
+      {
+        "name": "attributeDeclarations",
+        "elementCount": 1
+      },
+      {
+        "name": "networkAttributes",
+        "elementCount": 1
+      },
+      {
+        "name": "nodes",
+        "elementCount": 37
+      },
+      {
+        "name": "edges",
+        "elementCount": 0
+      },
+      {
+        "name": "visualProperties",
+        "elementCount": 1
+      },
+      {
+        "name": "nodeBypasses",
+        "elementCount": 0
+      },
+      {
+        "name": "edgeBypasses",
+        "elementCount": 0
+      },
+      {
+        "name": "visualEditorProperties",
+        "elementCount": 1
+      },
+      {
+        "name": "cyHiddenAttributes",
+        "elementCount": 1
+      },
+      {
+        "name": "cyTableColumn",
+        "elementCount": 30
+      }
+    ]
+  },
+  {
+    "attributeDeclarations": [
+      {
+        "networkAttributes": {
+          "__NetworkImage": {
+            "d": "string"
+          },
+          "figureLink": {
+            "d": "string"
+          },
+          "figureNumber": {
+            "d": "string"
+          },
+          "figureTitle": {
+            "d": "string"
+          },
+          "methods": {
+            "d": "string"
+          },
+          "networkType": {
+            "d": "string"
+          },
+          "organism": {
+            "d": "string"
+          },
+          "paperLink": {
+            "d": "string"
+          },
+          "paperTitle": {
+            "d": "string"
+          },
+          "pfocrId": {
+            "d": "string"
+          },
+          "pmcId": {
+            "d": "string"
+          },
+          "publicationYear": {
+            "d": "string"
+          },
+          "rights": {
+            "d": "string"
+          },
+          "reference": {
+            "d": "string"
+          },
+          "disease": {
+            "d": "string"
+          },
+          "name": {
+            "d": "string"
+          },
+          "description": {
+            "d": "string"
+          },
+          "version": {
+            "d": "string"
+          }
+        },
+        "nodes": {
+          "hgnc.symbol": {
+            "d": "string"
+          },
+          "name": {
+            "d": "string"
+          },
+          "ncbigene": {
+            "d": "integer"
+          },
+          "represents": {
+            "d": "string"
+          },
+          "source": {
+            "d": "string"
+          },
+          "symbol": {
+            "d": "string"
+          },
+          "type": {
+            "d": "string"
+          },
+          "word": {
+            "d": "string"
+          }
+        },
+        "edges": {}
+      }
+    ]
+  },
+  {
+    "nodes": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 0,
+        "v": {
+          "name": "ATM",
+          "represents": "ncbigene:472",
+          "symbol": "ATM",
+          "source": "ncbigene_symbol",
+          "hgnc.symbol": "ATM",
+          "ncbigene": 472,
+          "type": "gene",
+          "word": "ATM"
+        }
+      },
+      {
+        "id": 1,
+        "x": 100,
+        "y": 0,
+        "v": {
+          "name": "IARS1",
+          "represents": "ncbigene:3376",
+          "symbol": "IARS1",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "IARS1",
+          "ncbigene": 3376,
+          "type": "gene",
+          "word": "IRS"
+        }
+      },
+      {
+        "id": 2,
+        "x": 200,
+        "y": 0,
+        "v": {
+          "name": "IRS1",
+          "represents": "ncbigene:3667",
+          "symbol": "IRS1",
+          "source": "famplex_relations",
+          "hgnc.symbol": "IRS1",
+          "ncbigene": 3667,
+          "type": "gene",
+          "word": "IRS"
+        }
+      },
+      {
+        "id": 3,
+        "x": 300,
+        "y": 0,
+        "v": {
+          "name": "IRS2",
+          "represents": "ncbigene:8660",
+          "symbol": "IRS2",
+          "source": "famplex_relations",
+          "hgnc.symbol": "IRS2",
+          "ncbigene": 8660,
+          "type": "gene",
+          "word": "IRS"
+        }
+      },
+      {
+        "id": 4,
+        "x": 400,
+        "y": 0,
+        "v": {
+          "name": "IRS4",
+          "represents": "ncbigene:8471",
+          "symbol": "IRS4",
+          "source": "famplex_relations",
+          "hgnc.symbol": "IRS4",
+          "ncbigene": 8471,
+          "type": "gene",
+          "word": "IRS"
+        }
+      },
+      {
+        "id": 5,
+        "x": 500,
+        "y": 0,
+        "v": {
+          "name": "PIK3CA",
+          "represents": "ncbigene:5290",
+          "symbol": "PIK3CA",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "PIK3CA",
+          "ncbigene": 5290,
+          "type": "gene",
+          "word": "PI3K"
+        }
+      },
+      {
+        "id": 6,
+        "x": 600,
+        "y": 0,
+        "v": {
+          "name": "PIK3CB",
+          "represents": "ncbigene:5291",
+          "symbol": "PIK3CB",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "PIK3CB",
+          "ncbigene": 5291,
+          "type": "gene",
+          "word": "PI3K"
+        }
+      },
+      {
+        "id": 7,
+        "x": 700,
+        "y": 0,
+        "v": {
+          "name": "PIK3CD",
+          "represents": "ncbigene:5293",
+          "symbol": "PIK3CD",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "PIK3CD",
+          "ncbigene": 5293,
+          "type": "gene",
+          "word": "PI3K"
+        }
+      },
+      {
+        "id": 8,
+        "x": 800,
+        "y": 0,
+        "v": {
+          "name": "PIK3CG",
+          "represents": "ncbigene:5294",
+          "symbol": "PIK3CG",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "PIK3CG",
+          "ncbigene": 5294,
+          "type": "gene",
+          "word": "PI3K"
+        }
+      },
+      {
+        "id": 9,
+        "x": 900,
+        "y": 0,
+        "v": {
+          "name": "PIK3R3",
+          "represents": "ncbigene:8503",
+          "symbol": "PIK3R3",
+          "source": "famplex_relations",
+          "hgnc.symbol": "PIK3R3",
+          "ncbigene": 8503,
+          "type": "gene",
+          "word": "PI3K"
+        }
+      },
+      {
+        "id": 10,
+        "x": 0,
+        "y": 100,
+        "v": {
+          "name": "PIK3R4",
+          "represents": "ncbigene:30849",
+          "symbol": "PIK3R4",
+          "source": "famplex_relations",
+          "hgnc.symbol": "PIK3R4",
+          "ncbigene": 30849,
+          "type": "gene",
+          "word": "PI3K"
+        }
+      },
+      {
+        "id": 11,
+        "x": 100,
+        "y": 100,
+        "v": {
+          "name": "PIK3R5",
+          "represents": "ncbigene:23533",
+          "symbol": "PIK3R5",
+          "source": "famplex_relations",
+          "hgnc.symbol": "PIK3R5",
+          "ncbigene": 23533,
+          "type": "gene",
+          "word": "PI3K"
+        }
+      },
+      {
+        "id": 12,
+        "x": 200,
+        "y": 100,
+        "v": {
+          "name": "PIK3R6",
+          "represents": "ncbigene:146850",
+          "symbol": "PIK3R6",
+          "source": "famplex_relations",
+          "hgnc.symbol": "PIK3R6",
+          "ncbigene": 146850,
+          "type": "gene",
+          "word": "PI3K"
+        }
+      },
+      {
+        "id": 13,
+        "x": 300,
+        "y": 100,
+        "v": {
+          "name": "PIK3R1",
+          "represents": "ncbigene:5295",
+          "symbol": "PIK3R1",
+          "source": "famplex_relations",
+          "hgnc.symbol": "PIK3R1",
+          "ncbigene": 5295,
+          "type": "gene",
+          "word": "PI3K"
+        }
+      },
+      {
+        "id": 14,
+        "x": 400,
+        "y": 100,
+        "v": {
+          "name": "PIK3R2",
+          "represents": "ncbigene:5296",
+          "symbol": "PIK3R2",
+          "source": "famplex_relations",
+          "hgnc.symbol": "PIK3R2",
+          "ncbigene": 5296,
+          "type": "gene",
+          "word": "PI3K"
+        }
+      },
+      {
+        "id": 15,
+        "x": 500,
+        "y": 100,
+        "v": {
+          "name": "CHEK2",
+          "represents": "ncbigene:11200",
+          "symbol": "CHEK2",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "CHEK2",
+          "ncbigene": 11200,
+          "type": "gene",
+          "word": "CHK2"
+        }
+      },
+      {
+        "id": 16,
+        "x": 600,
+        "y": 100,
+        "v": {
+          "name": "YWHAQ",
+          "represents": "ncbigene:10971",
+          "symbol": "YWHAQ",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "YWHAQ",
+          "ncbigene": 10971,
+          "type": "gene",
+          "word": "14-3-3"
+        }
+      },
+      {
+        "id": 17,
+        "x": 700,
+        "y": 100,
+        "v": {
+          "name": "FOXK2",
+          "represents": "ncbigene:3607",
+          "symbol": "FOXK2",
+          "source": "ncbigene_symbol",
+          "hgnc.symbol": "FOXK2",
+          "ncbigene": 3607,
+          "type": "gene",
+          "word": "FOXK2"
+        }
+      },
+      {
+        "id": 18,
+        "x": 800,
+        "y": 100,
+        "v": {
+          "name": "AKT1",
+          "represents": "ncbigene:207",
+          "symbol": "AKT1",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "AKT1",
+          "ncbigene": 207,
+          "type": "gene",
+          "word": "AKT"
+        }
+      },
+      {
+        "id": 19,
+        "x": 900,
+        "y": 100,
+        "v": {
+          "name": "AKT2",
+          "represents": "ncbigene:208",
+          "symbol": "AKT2",
+          "source": "famplex_relations",
+          "hgnc.symbol": "AKT2",
+          "ncbigene": 208,
+          "type": "gene",
+          "word": "AKT"
+        }
+      },
+      {
+        "id": 20,
+        "x": 0,
+        "y": 200,
+        "v": {
+          "name": "AKT3",
+          "represents": "ncbigene:10000",
+          "symbol": "AKT3",
+          "source": "famplex_relations",
+          "hgnc.symbol": "AKT3",
+          "ncbigene": 10000,
+          "type": "gene",
+          "word": "AKT"
+        }
+      },
+      {
+        "id": 21,
+        "x": 100,
+        "y": 200,
+        "v": {
+          "name": "GSK3A",
+          "represents": "ncbigene:2931",
+          "symbol": "GSK3A",
+          "source": "famplex_relations",
+          "hgnc.symbol": "GSK3A",
+          "ncbigene": 2931,
+          "type": "gene",
+          "word": "GSK3"
+        }
+      },
+      {
+        "id": 22,
+        "x": 200,
+        "y": 200,
+        "v": {
+          "name": "GSK3B",
+          "represents": "ncbigene:2932",
+          "symbol": "GSK3B",
+          "source": "famplex_relations",
+          "hgnc.symbol": "GSK3B",
+          "ncbigene": 2932,
+          "type": "gene",
+          "word": "GSK3"
+        }
+      },
+      {
+        "id": 23,
+        "x": 300,
+        "y": 200,
+        "v": {
+          "name": "MTOR",
+          "represents": "ncbigene:2475",
+          "symbol": "MTOR",
+          "source": "ncbigene_symbol",
+          "hgnc.symbol": "MTOR",
+          "ncbigene": 2475,
+          "type": "gene",
+          "word": "mTOR"
+        }
+      },
+      {
+        "id": 24,
+        "x": 400,
+        "y": 200,
+        "v": {
+          "name": "FOXO3",
+          "represents": "ncbigene:2309",
+          "symbol": "FOXO3",
+          "source": "ncbigene_symbol",
+          "hgnc.symbol": "FOXO3",
+          "ncbigene": 2309,
+          "type": "gene",
+          "word": "FOXO3"
+        }
+      },
+      {
+        "id": 25,
+        "x": 500,
+        "y": 200,
+        "v": {
+          "name": "PIAS4",
+          "represents": "ncbigene:51588",
+          "symbol": "PIAS4",
+          "source": "ncbigene_symbol",
+          "hgnc.symbol": "PIAS4",
+          "ncbigene": 51588,
+          "type": "gene",
+          "word": "PIAS4"
+        }
+      },
+      {
+        "id": 26,
+        "x": 600,
+        "y": 200,
+        "v": {
+          "name": "CREBBP",
+          "represents": "ncbigene:1387",
+          "symbol": "CREBBP",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "CREBBP",
+          "ncbigene": 1387,
+          "type": "gene",
+          "word": "CBP"
+        }
+      },
+      {
+        "id": 27,
+        "x": 700,
+        "y": 200,
+        "v": {
+          "name": "EIF4E",
+          "represents": "ncbigene:1977",
+          "symbol": "EIF4E",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "EIF4E",
+          "ncbigene": 1977,
+          "type": "gene",
+          "word": "CBP"
+        }
+      },
+      {
+        "id": 28,
+        "x": 800,
+        "y": 200,
+        "v": {
+          "name": "OPN1LW",
+          "represents": "ncbigene:5956",
+          "symbol": "OPN1LW",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "OPN1LW",
+          "ncbigene": 5956,
+          "type": "gene",
+          "word": "CBP"
+        }
+      },
+      {
+        "id": 29,
+        "x": 900,
+        "y": 200,
+        "v": {
+          "name": "PAG1",
+          "represents": "ncbigene:55824",
+          "symbol": "PAG1",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "PAG1",
+          "ncbigene": 55824,
+          "type": "gene",
+          "word": "CBP"
+        }
+      },
+      {
+        "id": 30,
+        "x": 0,
+        "y": 300,
+        "v": {
+          "name": "PCBP4",
+          "represents": "ncbigene:57060",
+          "symbol": "PCBP4",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "PCBP4",
+          "ncbigene": 57060,
+          "type": "gene",
+          "word": "CBP"
+        }
+      },
+      {
+        "id": 31,
+        "x": 100,
+        "y": 300,
+        "v": {
+          "name": "SIRT1",
+          "represents": "ncbigene:23411",
+          "symbol": "SIRT1",
+          "source": "ncbigene_symbol",
+          "hgnc.symbol": "SIRT1",
+          "ncbigene": 23411,
+          "type": "gene",
+          "word": "SIRT1"
+        }
+      },
+      {
+        "id": 32,
+        "x": 200,
+        "y": 300,
+        "v": {
+          "name": "PRPS1",
+          "represents": "ncbigene:5631",
+          "symbol": "PRPS1",
+          "source": "ncbigene_symbol",
+          "hgnc.symbol": "PRPS1",
+          "ncbigene": 5631,
+          "type": "gene",
+          "word": "PRPS1"
+        }
+      },
+      {
+        "id": 33,
+        "x": 300,
+        "y": 300,
+        "v": {
+          "name": "PRPS1L1",
+          "represents": "ncbigene:221823",
+          "symbol": "PRPS1L1",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "PRPS1L1",
+          "ncbigene": 221823,
+          "type": "gene",
+          "word": "PRPS1"
+        }
+      },
+      {
+        "id": 34,
+        "x": 400,
+        "y": 300,
+        "v": {
+          "name": "CAD",
+          "represents": "ncbigene:790",
+          "symbol": "CAD",
+          "source": "ncbigene_symbol",
+          "hgnc.symbol": "CAD",
+          "ncbigene": 790,
+          "type": "gene",
+          "word": "CAD"
+        }
+      },
+      {
+        "id": 35,
+        "x": 500,
+        "y": 300,
+        "v": {
+          "name": "DFFB",
+          "represents": "ncbigene:1677",
+          "symbol": "DFFB",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "DFFB",
+          "ncbigene": 1677,
+          "type": "gene",
+          "word": "CAD"
+        }
+      },
+      {
+        "id": 36,
+        "x": 600,
+        "y": 300,
+        "v": {
+          "name": "ACOD1",
+          "represents": "ncbigene:730249",
+          "symbol": "ACOD1",
+          "source": "ncbigene_synonym",
+          "hgnc.symbol": "ACOD1",
+          "ncbigene": 730249,
+          "type": "gene",
+          "word": "CAD"
+        }
+      }
+    ]
+  },
+  {
+    "edges": []
+  },
+  {
+    "visualProperties": [
+      {
+        "default": {
+          "network": {
+            "NETWORK_BACKGROUND_COLOR": "#FFFFFF"
+          },
+          "edge": {
+            "EDGE_LABEL": "",
+            "EDGE_LABEL_COLOR": "#000000",
+            "EDGE_LABEL_FONT_FACE": {
+              "FONT_FAMILY": "sans-serif",
+              "FONT_STYLE": "normal",
+              "FONT_WEIGHT": "normal"
+            },
+            "EDGE_LABEL_FONT_SIZE": 10,
+            "EDGE_LABEL_OPACITY": 1,
+            "EDGE_LABEL_ROTATION": 0,
+            "EDGE_LABEL_MAX_WIDTH": 200,
+            "EDGE_LINE_STYLE": "solid",
+            "EDGE_OPACITY": 1,
+            "EDGE_SELECTED_PAINT": "#FF0000",
+            "EDGE_SOURCE_ARROW_COLOR": "#000000",
+            "EDGE_SOURCE_ARROW_SHAPE": "none",
+            "EDGE_LINE_COLOR": "#848484",
+            "EDGE_TARGET_ARROW_COLOR": "#000000",
+            "EDGE_TARGET_ARROW_SHAPE": "none",
+            "EDGE_VISIBILITY": "element",
+            "EDGE_WIDTH": 2,
+            "EDGE_Z_LOCATION": 0
+          },
+          "node": {
+            "NODE_BORDER_COLOR": "#CCCCCC",
+            "NODE_BORDER_STYLE": "solid",
+            "NODE_BORDER_OPACITY": 1,
+            "NODE_BORDER_WIDTH": 1,
+            "NODE_BACKGROUND_COLOR": "#FFFFFF",
+            "NODE_HEIGHT": 35,
+            "NODE_LABEL": "",
+            "NODE_LABEL_COLOR": "#000000",
+            "NODE_LABEL_FONT_FACE": {
+              "FONT_FAMILY": "sans-serif",
+              "FONT_STYLE": "normal",
+              "FONT_WEIGHT": "normal"
+            },
+            "NODE_LABEL_FONT_SIZE": 12,
+            "NODE_LABEL_OPACITY": 1,
+            "NODE_LABEL_POSITION": {
+              "HORIZONTAL_ALIGN": "center",
+              "VERTICAL_ALIGN": "center",
+              "HORIZONTAL_ANCHOR": "center",
+              "VERTICAL_ANCHOR": "center",
+              "MARGIN_X": 0,
+              "MARGIN_Y": 0,
+              "JUSTIFICATION": "center"
+            },
+            "NODE_LABEL_ROTATION": 0,
+            "NODE_LABEL_MAX_WIDTH": 200,
+            "NODE_BACKGROUND_OPACITY": 1,
+            "NODE_SELECTED_PAINT": "#FFFF00",
+            "NODE_SHAPE": "round-rectangle",
+            "NODE_VISIBILITY": "element",
+            "NODE_WIDTH": 75,
+            "NODE_Z_LOCATION": "0.0"
+          }
+        },
+        "nodeMapping": {
+          "NODE_BORDER_COLOR": {
+            "type": "DISCRETE",
+            "definition": {
+              "attribute": "type",
+              "map": [
+                {
+                  "v": "gene",
+                  "vp": "#467CA8"
+                }
+              ]
+            }
+          },
+          "NODE_BORDER_WIDTH": {
+            "type": "DISCRETE",
+            "definition": {
+              "attribute": "type",
+              "map": [
+                {
+                  "v": "gene",
+                  "vp": 4
+                }
+              ]
+            }
+          },
+          "NODE_BACKGROUND_COLOR": {
+            "type": "DISCRETE",
+            "definition": {
+              "attribute": "type",
+              "map": [
+                {
+                  "v": "protein",
+                  "vp": "#D1F5FF"
+                }
+              ]
+            }
+          },
+          "NODE_HEIGHT": {
+            "type": "DISCRETE",
+            "definition": {
+              "attribute": "type",
+              "map": [
+                {
+                  "v": "gene",
+                  "vp": 25
+                }
+              ]
+            }
+          },
+          "NODE_LABEL": {
+            "type": "PASSTHROUGH",
+            "definition": {
+              "attribute": "name"
+            }
+          },
+          "NODE_SHAPE": {
+            "type": "DISCRETE",
+            "definition": {
+              "attribute": "type",
+              "map": [
+                {
+                  "v": "protein",
+                  "vp": "ellipse"
+                }
+              ]
+            }
+          },
+          "NODE_WIDTH": {
+            "type": "DISCRETE",
+            "definition": {
+              "attribute": "type",
+              "map": [
+                {
+                  "v": "gene",
+                  "vp": 60
+                }
+              ]
+            }
+          }
+        },
+        "edgeMapping": {}
+      }
+    ]
+  },
+  {
+    "nodeBypasses": []
+  },
+  {
+    "edgeBypasses": []
+  },
+  {
+    "visualEditorProperties": [
+      {
+        "properties": {
+          "nodeSizeLocked": false,
+          "arrowColorMatchesEdge": false
+        }
+      }
+    ]
+  },
+  {
+    "cyHiddenAttributes": [
+      {
+        "n": "layoutAlgorithm",
+        "v": "Prefuse Force Directed Layout"
+      }
+    ]
+  },
+  {
+    "cyTableColumn": [
+      {
+        "applies_to": "node_table",
+        "n": "shared name"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "name"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "ncbigene",
+        "d": "integer"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "word"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "symbol"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "source"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "hgnc.symbol"
+      },
+      {
+        "applies_to": "node_table",
+        "n": "type"
+      },
+      {
+        "applies_to": "edge_table",
+        "n": "shared name"
+      },
+      {
+        "applies_to": "edge_table",
+        "n": "shared interaction"
+      },
+      {
+        "applies_to": "edge_table",
+        "n": "name"
+      },
+      {
+        "applies_to": "edge_table",
+        "n": "interaction"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "shared name"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "name"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "__Annotations",
+        "d": "list_of_string"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "pmcid"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "pfocr_id"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "figure_number"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "figure_title"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "description"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "figure_link"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "paper_title"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "reference"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "publication_year"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "paper_link"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "version"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "organism"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "rights"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "methods"
+      },
+      {
+        "applies_to": "network_table",
+        "n": "networkType"
+      }
+    ]
+  },
+  {
+    "status": [
+      {
+        "error": "",
+        "success": true
+      }
+    ]
+  }
+]
